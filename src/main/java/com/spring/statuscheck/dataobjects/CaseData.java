@@ -17,12 +17,12 @@ import lombok.Setter;
 @NoArgsConstructor
 @Getter
 @Setter
-public class CaseData implements Comparable<NewCaseDetails> {
+public class CaseData implements Comparable<CaseData> {
 	@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
 	Date lastUpdateDate;
 
 	@Override
-	public int compareTo(NewCaseDetails next) {
+	public int compareTo(CaseData next) {
 		return this.getCaseNum().compareTo(next.getCaseNum());
 	}
 
