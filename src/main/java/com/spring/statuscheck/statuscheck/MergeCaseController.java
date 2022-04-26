@@ -24,11 +24,11 @@ import com.spring.statuscheck.dataobjects.CaseUpdate;
 import com.spring.statuscheck.dataobjects.NewCaseDetails;
 
 @RestController
-public class UpdateCaseController {
+public class MergeCaseController {
 
 	String[] invalidStatus = { "Case Was Rejected Because It Was Improperly Filed" };
 
-	@PutMapping("/updateCases/{caseType}")
+	@PutMapping("/mergeCase/{caseType}")
 	public void updateCases(@PathVariable String caseType) throws Exception {
 		File output = new File("master.txt");
 		FileWriter writer = new FileWriter(output, true);

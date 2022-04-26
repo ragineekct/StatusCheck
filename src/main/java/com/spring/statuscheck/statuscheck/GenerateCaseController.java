@@ -23,7 +23,7 @@ import com.spring.statuscheck.dataobjects.CaseData;
 import com.spring.statuscheck.dataobjects.CaseUpdate;
 
 @RestController
-public class CaseController {
+public class GenerateCaseController {
 
 	@GetMapping("/generate/{caseType}")
 	public void generateCases(@PathVariable String caseType) throws Exception {

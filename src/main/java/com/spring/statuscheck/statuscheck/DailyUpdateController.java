@@ -1,8 +1,6 @@
 package com.spring.statuscheck.statuscheck;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.ParseException;
@@ -11,7 +9,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -27,21 +24,18 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.spring.statuscheck.dataobjects.CaseUpdate;
 import com.spring.statuscheck.dataobjects.CaseData;
+import com.spring.statuscheck.dataobjects.CaseUpdate;
+import com.spring.statuscheck.util.StatusCheckUtil;
 
 @RestController
-public class NewController {
+public class DailyUpdateController {
 
-	private String originalCaseNumber = null;
-
-	@GetMapping("/status/{caseNumber}/{caseType}")
-	public ResponseEntity<List<CaseData>> getStatus(@PathVariable String caseNumber, @PathVariable String caseType)
+	@GetMapping("/dailyUpdate/{caseCode}/{caseType}")
+	public ResponseEntity<List<CaseData>> getStatus(@PathVariable String caseCode, @PathVariable String caseType)
 			throws Exception {
-		originalCaseNumber = caseNumber;
 		List<CaseData> response = new ArrayList<>();
-		Map<String, CaseData> map = jsonfileToMap();
+		Map<String, CaseData> map = StatusCheckUtil.jsonfileToMap(caseCode);
 		if (map.size() > 0) {
 			Set<String> keys = map.keySet();
 			for (String key : keys) {
@@ -86,10 +80,10 @@ public class NewController {
 			for (Entry<String, CaseData> entry : map.entrySet())
 				updatedFile.add(entry.getValue());
 			Collections.sort(updatedFile);
-			File output = new File(originalCaseNumber + "-update.txt");
+			File output = new File("EAC-I765-update.txt");
 			output.delete();
 			for (CaseData caseDetail : updatedFile) {
-				generateFile(caseDetail, true);
+				generateFile(caseDetail, output);
 			}
 		}
 	}
@@ -105,9 +99,9 @@ public class NewController {
 			if (caseDetail.equals(existingCase))
 				return null;
 			else if (caseDetail.getCaseType() != null && existingCase == null)
-				generateFile(caseDetail, false);
+				// generateFile(caseDetail, false);
 
-			return caseDetail;
+				return caseDetail;
 
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -115,11 +109,8 @@ public class NewController {
 		return null;
 	}
 
-	private void generateFile(CaseData caseDetails, boolean update) {
-		File output = new File(originalCaseNumber + ".txt");
-		if (update) {
-			output = new File(originalCaseNumber + "-update.txt");
-		}
+	private void generateFile(CaseData caseDetails, File output) {
+
 		try {
 			FileWriter writer = new FileWriter(output, true);
 			writer.write(caseDetails.toString() + "\n");
@@ -187,33 +178,6 @@ public class NewController {
 		}
 
 		return caseDate;
-	}
-
-	public Map<String, CaseData> jsonfileToMap() {
-
-		Map<String, CaseData> map = new HashMap<>();
-		String fileName = originalCaseNumber + ".txt";
-		ObjectMapper om = new ObjectMapper();
-		om.setTimeZone(TimeZone.getDefault());
-		if (new File(fileName).exists()) {
-			try {
-				BufferedReader reader = new BufferedReader(new FileReader(fileName));
-				String lineRead = reader.readLine();
-
-				while (lineRead != null) {
-
-					CaseData caseDetails = om.readValue(lineRead, CaseData.class);
-
-					map.put(caseDetails.getCaseNum(), caseDetails);
-					lineRead = reader.readLine();
-				}
-				reader.close();
-
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-		}
-		return map;
 	}
 
 }
