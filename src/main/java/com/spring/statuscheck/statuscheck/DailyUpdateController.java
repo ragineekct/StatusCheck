@@ -31,8 +31,6 @@ import com.spring.statuscheck.util.StatusCheckUtil;
 @RestController
 public class DailyUpdateController {
 
-	private String originalCaseNumber = null;
-
 	@GetMapping("/dailyUpdate/{caseCode}/{caseType}")
 	public ResponseEntity<List<CaseData>> getStatus(@PathVariable String caseCode, @PathVariable String caseType)
 			throws Exception {
@@ -82,10 +80,10 @@ public class DailyUpdateController {
 			for (Entry<String, CaseData> entry : map.entrySet())
 				updatedFile.add(entry.getValue());
 			Collections.sort(updatedFile);
-			File output = new File(originalCaseNumber + "-update.txt");
+			File output = new File("EAC-I765-update.txt");
 			output.delete();
 			for (CaseData caseDetail : updatedFile) {
-				generateFile(caseDetail, true);
+				generateFile(caseDetail, output);
 			}
 		}
 	}
@@ -101,9 +99,9 @@ public class DailyUpdateController {
 			if (caseDetail.equals(existingCase))
 				return null;
 			else if (caseDetail.getCaseType() != null && existingCase == null)
-				generateFile(caseDetail, false);
+				// generateFile(caseDetail, false);
 
-			return caseDetail;
+				return caseDetail;
 
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -111,11 +109,8 @@ public class DailyUpdateController {
 		return null;
 	}
 
-	private void generateFile(CaseData caseDetails, boolean update) {
-		File output = new File(originalCaseNumber + ".txt");
-		if (update) {
-			output = new File(originalCaseNumber + "-update.txt");
-		}
+	private void generateFile(CaseData caseDetails, File output) {
+
 		try {
 			FileWriter writer = new FileWriter(output, true);
 			writer.write(caseDetails.toString() + "\n");
@@ -184,7 +179,5 @@ public class DailyUpdateController {
 
 		return caseDate;
 	}
-
-	
 
 }
