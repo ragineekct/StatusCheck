@@ -3,7 +3,10 @@ package com.spring.statuscheck.util;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.TimeZone;
 
@@ -46,6 +49,21 @@ public class StatusCheckUtil {
 			return "EAC-I765";
 
 		return null;
+	}
+
+	public static void writeToFile(FileWriter writer, List<CaseData> finalList) throws IOException {
+		for (CaseData c : finalList) {
+			try {
+
+				writer.write(c.toString() + "\n");
+				writer.flush();
+
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		writer.close();
 	}
 
 }
