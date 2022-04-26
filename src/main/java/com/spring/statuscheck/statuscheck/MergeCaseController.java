@@ -4,9 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -21,53 +19,49 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.spring.statuscheck.dataobjects.CaseData;
 import com.spring.statuscheck.dataobjects.CaseUpdate;
-import com.spring.statuscheck.dataobjects.NewCaseDetails;
+import com.spring.statuscheck.util.StatusCheckUtil;
 
 @RestController
 public class MergeCaseController {
 
-	String[] invalidStatus = { "Case Was Rejected Because It Was Improperly Filed" };
+	String invalidStatus = "Rejected";
 
 	@PutMapping("/mergeCase/{caseType}")
 	public void updateCases(@PathVariable String caseType) throws Exception {
-		File output = new File("master.txt");
-		FileWriter writer = new FileWriter(output, true);
-		Map<String, CaseData> masterFile = jsonfileToMap("master-I-765");
-		Map<String, CaseData> UpdateFromFile = jsonfileToMap("EAC2290008030");
+		File output = new File("EAC-I765-update.txt");
+		FileWriter writer = new FileWriter(output);
+		Map<String, CaseData> masterFile = jsonfileToMap("EAC-I765");
+		// Map<String, CaseData> UpdateFromFile = jsonfileToMap("EAC2290008030");
 		// masterFile.entrySet().stream()
 		// .collect(Collectors.toMap(Map.Entry::getKey, entry ->
 		// UpdateFromFile.containsKey(entry)));
-		masterFile.keySet().removeAll(UpdateFromFile.keySet());
-		masterFile.putAll(UpdateFromFile);
+		// masterFile.keySet().removeAll(UpdateFromFile.keySet());
+		// masterFile.putAll(UpdateFromFile);
 
+		List<CaseData> finalList = updateFile(masterFile);
+
+		StatusCheckUtil.writeToFile(writer, finalList);
+	}
+
+	private List<CaseData> updateFile(Map<String, CaseData> masterFile) {
 		List<CaseData> finalList = new ArrayList<CaseData>();
 
 		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
-		List<String> removeFromMaster = Arrays.asList(invalidStatus);
+		// List<String> removeFromMaster = Arrays.asList(invalidStatus);
 		while (iterator.hasNext()) {
 
 			Map.Entry<String, CaseData> entry = iterator.next();
 			List<CaseUpdate> list = entry.getValue().getCaseUpdates();
 			for (CaseUpdate c : list) {
-				if (removeFromMaster.contains(c.getCaseStatus()))
+				if (c.getCaseStatus().contains(invalidStatus)) {
 					iterator.remove();
+					break;
+				}
 			}
 			finalList.add(entry.getValue());
 		}
 		Collections.sort(finalList);
-
-		for (CaseData c : finalList) {
-			try {
-
-				writer.write(c.toString() + "\n");
-				writer.flush();		
-
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		}
-		writer.close();
+		return finalList;
 	}
 
 	public Map<String, CaseData> jsonfileToMap(String fileName) {

@@ -3,6 +3,7 @@ package com.spring.statuscheck.statuscheck;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
@@ -40,7 +41,7 @@ public class StatusSearchByDateController {
 				}
 			}
 		}
-
+		Collections.sort(casedataByDate);
 		return casedataByDate;
 	}
 
