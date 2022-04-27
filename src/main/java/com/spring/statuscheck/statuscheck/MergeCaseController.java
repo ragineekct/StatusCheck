@@ -47,18 +47,21 @@ public class MergeCaseController {
 		List<CaseData> finalList = new ArrayList<CaseData>();
 
 		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
+
 		// List<String> removeFromMaster = Arrays.asList(invalidStatus);
 		while (iterator.hasNext()) {
-
+			boolean isPresent = false;
 			Map.Entry<String, CaseData> entry = iterator.next();
 			List<CaseUpdate> list = entry.getValue().getCaseUpdates();
 			for (CaseUpdate c : list) {
-				if (c.getCaseStatus().contains(invalidStatus)) {
-					iterator.remove();
+				if (c.getCaseStatus().toLowerCase().contains(invalidStatus.toLowerCase())) {
+					isPresent = true;
 					break;
 				}
 			}
-			finalList.add(entry.getValue());
+			if (!isPresent)
+				finalList.add(entry.getValue());
+
 		}
 		Collections.sort(finalList);
 		return finalList;
