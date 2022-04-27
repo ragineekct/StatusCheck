@@ -45,4 +45,30 @@ public class StatusSearchByDateController {
 		return casedataByDate;
 	}
 
+	@GetMapping("/statusByDate/{caseCode}/{date}/{status}")
+	public List<CaseData> getCaseStatusByDateAndStatus(@PathVariable String date, @PathVariable String caseCode,
+			@PathVariable String status) throws ParseException {
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+		Date date1 = sdf.parse(date);
+		List<CaseData> casedataByDate = new ArrayList<CaseData>();
+		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(caseCode);
+
+		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
+
+		while (iterator.hasNext()) {
+			Map.Entry<String, CaseData> entry = iterator.next();
+			List<CaseUpdate> list = entry.getValue().getCaseUpdates();
+
+			for (CaseUpdate c : list) {
+				if (c.getDate() != null) {
+					if (date1.compareTo(c.getDate()) == 0
+							&& c.getCaseStatus().toLowerCase().contains(status.toLowerCase()))
+						casedataByDate.add(entry.getValue());
+				}
+			}
+		}
+		Collections.sort(casedataByDate);
+		return casedataByDate;
+	}
+
 }

@@ -29,7 +29,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007113","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-20"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007115","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007125","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-06"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-19"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007127","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007130","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007131","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007132","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
@@ -44,14 +43,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007178","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007179","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007182","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007183","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007184","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007185","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007192","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007196","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007197","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-13"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007198","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007208","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007212","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007220","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-19"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007232","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
@@ -62,7 +59,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007288","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-03-17"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-03-19"},{"caseStatus":"Card Was Received By USCIS Along With My Letter","date":"2022-03-30"},{"caseStatus":"Request For A Duplicate Card Was Approved","date":"2022-04-13"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007289","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-06"},{"caseStatus":"Case Was Approved","date":"2022-04-07"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-08"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-11"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-14"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007291","caseType":"I-765","caseUpdates":[{"caseStatus":"Notice Explaining USCIS Actions Was Mailed","date":"2022-03-08"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-03-24"},{"caseStatus":"Case Was Denied","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007296","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-23"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007300","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-13"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-10"},{"caseStatus":"Case Was Approved","date":"2022-04-11"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-13"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-14"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-15"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007301","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-13"},{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-20"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007303","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-07"},{"caseStatus":"Case Was Approved","date":"2022-04-08"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-13"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-14"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-15"}]}
@@ -75,7 +71,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007322","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-03-17"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-03-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007332","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-18"},{"caseStatus":"Card Was Mailed To Me","date":"2022-03-23"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-03-24"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007333","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-05"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007335","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-23"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007344","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-15"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007346","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-19"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007347","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-05"},{"caseStatus":"Case Was Approved","date":"2022-04-06"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-08"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-11"},{"caseStatus":"Card Is Being Returned to USCIS by Post Office","date":"2022-04-13"},{"caseStatus":"Card Was Returned To USCIS","date":"2022-04-19"},{"caseStatus":"Card Was Returned To USCIS","date":"2022-04-21"}]}
@@ -125,7 +120,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007456","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-19"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007458","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-13"},{"caseStatus":"Case Was Approved","date":"2022-04-14"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007461","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-06"},{"caseStatus":"Case Was Approved","date":"2022-04-07"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-11"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-13"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007468","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-23"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007469","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"Case Was Approved","date":"2022-04-05"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-07"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-08"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-11"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007470","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-13"},{"caseStatus":"Case Was Approved","date":"2022-04-14"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007471","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
@@ -163,7 +157,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007645","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007647","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-03-17"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-03-23"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007649","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-03-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007651","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007653","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007654","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007657","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
@@ -178,8 +171,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007675","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Returned To USCIS","date":"2022-04-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007678","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-04"},{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-14"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007681","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007682","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007683","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007694","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007695","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007699","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
@@ -208,14 +199,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007768","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007774","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007775","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-01-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007776","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007778","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007779","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007780","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007781","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007782","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007783","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007784","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007795","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-19"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007799","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007800","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"},{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-03-18"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-07"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
@@ -227,8 +213,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007832","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007833","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007834","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007835","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007836","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007837","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007838","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007839","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
@@ -250,9 +234,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007867","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"},{"caseStatus":"Case Was Approved","date":"2022-04-18"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-19"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007868","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007872","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007876","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007877","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007878","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007880","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007886","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007887","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
@@ -261,16 +242,13 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290007897","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007898","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007899","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007901","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007902","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007937","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-14"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-19"},{"caseStatus":"Case Was Updated To Show Fingerprints Were Taken","date":null},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007938","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-14"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-19"},{"caseStatus":"Case Was Approved","date":"2022-04-20"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-21"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-23"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007973","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected For Incorrect Fee And Incorrect Form Version","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007974","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007975","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007979","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-14"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-19"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-20"},{"caseStatus":"Case Was Approved","date":"2022-04-21"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007986","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-09-20"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-20"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290007988","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007995","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290007997","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008010","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
@@ -298,7 +276,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008047","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-03-09"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008048","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-21"},{"caseStatus":"Case Was Approved","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008050","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008070","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008077","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008078","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008079","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
@@ -328,16 +305,11 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008172","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-03-17"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-03-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008173","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-15"},{"caseStatus":"Case Was Approved","date":"2022-04-18"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-19"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008186","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-19"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-20"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008192","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected For Incorrect Fee And Form Not Signed","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008194","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008195","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-14"},{"caseStatus":"Case Was Approved","date":"2022-04-15"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-18"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-19"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-20"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008196","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-19"},{"caseStatus":"Case Was Approved","date":"2022-04-20"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008198","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008199","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-19"},{"caseStatus":"Request for Initial Evidence Was Sent","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008200","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008205","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008209","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008210","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008211","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008212","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008213","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
@@ -352,14 +324,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008237","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-04-18"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008239","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-03-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008241","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008247","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008255","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008256","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008259","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008264","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008265","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008266","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008267","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008269","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008327","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008339","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
@@ -384,8 +351,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008386","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008387","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008425","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-15"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008432","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-27"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008439","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008440","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008441","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008442","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-19"}]}
@@ -402,7 +367,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008512","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-20"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008513","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008517","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008519","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008520","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008522","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-19"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008523","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-20"}]}
@@ -432,10 +396,7 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008591","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008592","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Denied","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008605","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008615","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-27"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008620","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008622","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008629","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008634","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008638","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008648","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
@@ -451,10 +412,7 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008678","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Mailed To Me","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008679","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-19"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008680","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008683","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-27"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008684","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008685","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008686","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008692","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008693","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008734","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-25"},{"caseStatus":"Expedite Request Denied","date":"2022-04-25"}]}
@@ -491,18 +449,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008855","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008856","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-27"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008858","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008882","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-28"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008894","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-28"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008895","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008896","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008898","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008900","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008901","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-19"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008902","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-18"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008904","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008907","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008912","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-28"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008913","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008920","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008929","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008932","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-18"}]}
@@ -514,10 +466,8 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290008967","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008974","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008976","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008977","caseType":"I-765","caseUpdates":[{"caseStatus":"Petition/Application Was Rejected For Insufficient Funds","date":"2021-11-16"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008978","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290008987","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290008993","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009018","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009020","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009021","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
@@ -542,9 +492,7 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290009075","caseType":"I-765","caseUpdates":[{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-04"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009076","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009077","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009078","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009080","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-20"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009081","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009095","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-21"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009108","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009110","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
@@ -556,7 +504,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290009168","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009180","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009182","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009194","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009206","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Transferred To Another Office","date":"2022-04-22"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009207","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009208","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-18"}]}
@@ -646,11 +593,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290009507","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Transferred To Another Office","date":"2022-04-22"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009511","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009513","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009521","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009523","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009526","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009527","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-27"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009530","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009536","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009537","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-27"},{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009565","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
@@ -664,12 +609,10 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290009578","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009587","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009588","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009590","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009592","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009596","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009599","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009603","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009610","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009617","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009624","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009626","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
@@ -688,11 +631,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290009733","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009734","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009736","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Delivered To Me By The Post Office","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009737","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-10-30"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009738","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-05"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009739","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009740","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290009742","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-10-30"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009775","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009778","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290009781","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-03-11"}]}
@@ -747,7 +688,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010074","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-30"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010075","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010076","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010080","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010082","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010083","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010085","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
@@ -782,16 +722,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010181","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010188","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010190","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010202","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010204","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010206","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010207","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010208","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010209","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010210","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010214","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010217","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010218","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010249","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010250","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010267","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -815,15 +751,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010303","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010305","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010312","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010318","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010348","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010355","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010358","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010359","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010362","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010397","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010411","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010412","caseType":"I-765","caseUpdates":[{"caseStatus":"Petition/Application Was Rejected For Insufficient Funds","date":"2021-11-16"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010413","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010415","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010416","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"},{"caseStatus":"New Card Is Being Produced","date":"2022-04-26"}]}
@@ -845,7 +778,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010454","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-06"},{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010457","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010463","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010482","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010483","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010488","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010489","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -896,7 +828,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010659","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010660","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010661","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010662","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010666","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010667","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010668","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -915,7 +846,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010697","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010698","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010699","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010700","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010702","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010728","caseType":"I-765","caseUpdates":[{"caseStatus":"Card Was Mailed To Me","date":"2022-04-22"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010735","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -926,14 +856,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010779","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010780","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010813","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010826","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010828","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010829","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010833","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010834","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010836","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010837","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010840","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010849","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-03-21"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010851","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010854","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -941,7 +869,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010862","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-04-19"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010866","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010870","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010878","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010886","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010887","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010888","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -976,7 +903,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010939","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010940","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010941","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010960","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010963","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010964","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010967","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"},{"caseStatus":"Case Transferred To Another Office","date":"2022-04-26"}]}
@@ -994,12 +920,10 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290010989","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010992","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290010995","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-02-25"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290010998","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011007","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011017","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011033","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011034","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011054","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011059","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011060","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011069","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
@@ -1073,7 +997,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011276","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011278","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011285","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011293","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011295","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011298","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011300","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
@@ -1116,14 +1039,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011382","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011389","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011392","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011394","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011396","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011397","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011398","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011427","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011428","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011431","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011449","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011450","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011451","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011452","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
@@ -1137,7 +1058,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011489","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Updated To Show Fingerprints Were Taken","date":null}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011494","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-04-21"},{"caseStatus":"Card Was Picked Up By The United States Postal Service","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011495","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-04-22"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011497","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011503","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011505","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011506","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
@@ -1163,7 +1083,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011553","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011579","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011581","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011583","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011586","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011589","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011590","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
@@ -1175,7 +1094,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011607","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011611","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011619","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011628","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011640","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011641","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-28"},{"caseStatus":"Case Was Approved","date":"2022-04-26"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011651","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
@@ -1193,13 +1111,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011676","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Updated To Show Fingerprints Were Taken","date":null}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011677","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-29"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011679","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011681","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011684","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011685","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011686","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011687","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011688","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011689","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011691","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011699","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011706","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
@@ -1217,7 +1131,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011741","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011797","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Denied","date":"2022-03-17"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011800","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011802","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011803","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011804","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011812","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
@@ -1234,7 +1147,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011838","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011847","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011849","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-03-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290011850","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011851","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011852","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011854","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
@@ -1288,7 +1200,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290011989","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290011999","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012000","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012001","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012004","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012005","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012006","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -1299,14 +1210,12 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012022","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-15"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012025","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012026","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012028","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012029","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012060","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-03"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012065","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012066","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012068","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-04-07"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012071","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012077","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012081","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012086","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012090","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-01"}]}
@@ -1320,22 +1229,17 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012149","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012154","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012155","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012156","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012157","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012159","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012161","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012183","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012185","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012186","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012187","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012188","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012189","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012190","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012191","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012202","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012203","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012205","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012206","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012212","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012213","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012214","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
@@ -1345,7 +1249,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012218","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012219","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012223","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012225","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-06"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012226","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012227","caseType":"I-765","caseUpdates":[{"caseStatus":"Name Was Updated","date":"2022-02-17"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012228","caseType":"I-765","caseUpdates":[{"caseStatus":"Request For A Duplicate Card Was Approved","date":"2022-04-22"},{"caseStatus":"Case Was Approved","date":"2022-04-25"}]}
@@ -1383,7 +1286,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012303","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012310","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012311","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012325","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-07"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012335","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012338","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012339","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
@@ -1401,11 +1303,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012378","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012379","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012388","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Transferred And A New Office Has Jurisdiction","date":"2022-04-21"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012391","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012401","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012402","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012408","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012412","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012421","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012422","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012428","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-04"}]}
@@ -1422,7 +1322,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012454","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012457","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012459","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-03-27"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012462","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012473","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012499","caseType":"I-765","caseUpdates":[{"caseStatus":"Request for Additional Evidence Was Sent","date":"2022-03-22"},{"caseStatus":"Response To USCIS' Request For Evidence Was Received","date":"2022-04-25"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012506","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-05"}]}
@@ -1473,16 +1372,11 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012639","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012644","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012667","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012709","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012713","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012739","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012744","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012747","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012769","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012770","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012777","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012778","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012780","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012783","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012784","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012785","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
@@ -1533,7 +1427,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290012903","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2021-11-22"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012905","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012912","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290012922","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012931","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012932","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290012933","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
@@ -1567,7 +1460,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013032","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013034","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013035","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013046","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013062","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013065","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013066","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
@@ -1591,7 +1483,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013191","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013193","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013200","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013201","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013202","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013203","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013205","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
@@ -1609,9 +1500,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013226","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013227","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013230","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013232","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-10"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013233","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-10"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013235","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013237","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013238","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013248","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
@@ -1657,7 +1545,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013365","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013366","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-08"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013368","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013377","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013383","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013394","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013395","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
@@ -1665,11 +1552,9 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013403","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013407","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Approved","date":"2022-02-04"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013421","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013428","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-11"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013445","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013458","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013460","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013466","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-11"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013475","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Updated To Show Fingerprints Were Taken","date":null}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013479","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013480","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
@@ -1680,7 +1565,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013498","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013499","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013504","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013506","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013509","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013510","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013522","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-02"}]}
@@ -1691,7 +1575,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013531","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-09"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013537","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013541","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013542","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013544","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013550","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013551","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
@@ -1716,7 +1599,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013582","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013583","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013588","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-03-26"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013589","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013590","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013593","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013595","caseType":"I-765","caseUpdates":[{"caseStatus":"Expedite Request Denied","date":"2022-04-21"}]}
@@ -1769,7 +1651,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013733","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-14"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013734","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-10-14"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013748","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013749","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Rejected Because I Sent An Incorrect Fee","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013753","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013754","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013761","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-10"}]}
@@ -1802,7 +1683,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013853","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013855","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013857","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013858","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because I Did Not Sign My Form","date":"2021-11-13"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013861","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013862","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013864","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
@@ -1835,7 +1715,6 @@
 {"lastUpdateDate":null,"caseNum":"EAC2290013900","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013902","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013903","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
-{"lastUpdateDate":null,"caseNum":"EAC2290013908","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Rejected Because It Was Improperly Filed","date":"2021-11-13"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013916","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013921","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
 {"lastUpdateDate":null,"caseNum":"EAC2290013940","caseType":"I-765","caseUpdates":[{"caseStatus":"Case Was Received","date":"2021-11-12"}]}
