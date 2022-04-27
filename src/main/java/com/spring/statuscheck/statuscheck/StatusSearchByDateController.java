@@ -3,8 +3,10 @@ package com.spring.statuscheck.statuscheck;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -19,6 +21,8 @@ import com.spring.statuscheck.util.StatusCheckUtil;
 
 @RestController
 public class StatusSearchByDateController {
+
+	String[] approvedList = { "Case Was Approved", "New Card Is Being Produced" };
 
 	@GetMapping("/statusByDate/{caseCode}/{date}")
 	public List<CaseData> getCaseStatusByDate(@PathVariable String date, @PathVariable String caseCode)
@@ -48,6 +52,7 @@ public class StatusSearchByDateController {
 	@GetMapping("/statusByDate/{caseCode}/{date}/{status}")
 	public List<CaseData> getCaseStatusByDateAndStatus(@PathVariable String date, @PathVariable String caseCode,
 			@PathVariable String status) throws ParseException {
+
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		Date date1 = sdf.parse(date);
 		List<CaseData> casedataByDate = new ArrayList<CaseData>();
@@ -61,14 +66,44 @@ public class StatusSearchByDateController {
 
 			for (CaseUpdate c : list) {
 				if (c.getDate() != null) {
-					if (date1.compareTo(c.getDate()) == 0
-							&& c.getCaseStatus().toLowerCase().contains(status.toLowerCase()))
-						casedataByDate.add(entry.getValue());
+					if (date1.compareTo(c.getDate()) == 0 && checkStatus(status, c)) {
+						casedataByDate.add(filterData(date1, entry.getValue()));
+						break;
+					}
 				}
 			}
 		}
 		Collections.sort(casedataByDate);
 		return casedataByDate;
+	}
+
+	// TODO: concurrent modification
+	private CaseData filterData(Date date1, CaseData caseData) {
+		List<CaseUpdate> list = caseData.getCaseUpdates();
+		List<CaseUpdate> remove = new ArrayList<CaseUpdate>();
+		for (CaseUpdate update : list) {
+			if (!update.getCaseStatus().contains("Case Was Received") && update.getDate().compareTo(date1) != 0)
+				remove.add(update);
+		}
+		list.removeAll(remove);
+		return caseData;
+	}
+
+	private boolean checkStatus(String status, CaseUpdate c) {
+		List<String> list = initializeMap(status);
+		for (String s : list) {
+			if (c.getCaseStatus().toLowerCase().contains(s.toLowerCase()))
+				return true;
+		}
+		return false;
+
+	}
+
+	private List<String> initializeMap(String status) {
+
+		Map<String, List<String>> map = new HashMap<>();
+		map.put("approved", Arrays.asList(approvedList));
+		return map.get(status.toLowerCase());
 	}
 
 }

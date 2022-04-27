@@ -31,7 +31,7 @@ public class DailyUpdateController {
 	@PutMapping("/dailyUpdate/{caseCode}/{caseType}")
 	public ResponseEntity<Object> getStatus(@PathVariable String caseCode, @PathVariable String caseType)
 			throws Exception {
-		FileWriter writer = new FileWriter(new File(StatusCheckUtil.getFileName(caseCode) + "-update.txt"), true);
+		FileWriter writer = new FileWriter(new File(StatusCheckUtil.getFileName(caseCode) + "-update.txt"));
 		Map<String, CaseData> map = StatusCheckUtil.jsonfileToMap(caseCode);
 		if (map.size() > 0) {
 			Set<String> keys = map.keySet();
