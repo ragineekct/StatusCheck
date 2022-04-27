@@ -67,26 +67,27 @@ public class StatusSearchByDateController {
 			for (CaseUpdate c : list) {
 				if (c.getDate() != null) {
 					if (date1.compareTo(c.getDate()) == 0 && checkStatus(status, c)) {
-						casedataByDate.add(filterData(date1, entry.getValue()));
+						casedataByDate.add(entry.getValue());
 						break;
 					}
 				}
 			}
 		}
-		Collections.sort(casedataByDate);
+		filterData(date1, casedataByDate);
+		Collections.sort((casedataByDate));
 		return casedataByDate;
 	}
 
-	// TODO: concurrent modification
-	private CaseData filterData(Date date1, CaseData caseData) {
-		List<CaseUpdate> list = caseData.getCaseUpdates();
-		List<CaseUpdate> remove = new ArrayList<CaseUpdate>();
-		for (CaseUpdate update : list) {
-			if (!update.getCaseStatus().contains("Case Was Received") && update.getDate().compareTo(date1) != 0)
-				remove.add(update);
+	private void filterData(Date date1, List<CaseData> casedataByDate) {
+		List<CaseUpdate> removeList = new ArrayList<CaseUpdate>();
+		for (CaseData d : casedataByDate) {
+			for (CaseUpdate up : d.getCaseUpdates()) {
+				if (!up.getCaseStatus().contains("Case Was Received") && up.getDate() != null
+						&& up.getDate().compareTo(date1) != 0)
+					removeList.add(up);
+			}
+			d.getCaseUpdates().removeAll(removeList);
 		}
-		list.removeAll(remove);
-		return caseData;
 	}
 
 	private boolean checkStatus(String status, CaseUpdate c) {
