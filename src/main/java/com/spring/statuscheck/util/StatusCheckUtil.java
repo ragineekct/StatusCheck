@@ -2,9 +2,10 @@ package com.spring.statuscheck.util;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -23,24 +24,24 @@ public class StatusCheckUtil {
 		String fileName = getFileName(caseCode) + ".txt";
 		ObjectMapper om = new ObjectMapper();
 		om.setTimeZone(TimeZone.getDefault());
-		if (new File(fileName).exists()) {
-			try {
-				BufferedReader reader = new BufferedReader(new FileReader(fileName));
-				String lineRead = reader.readLine();
+		try {
+			InputStream inputStream = new StatusCheckUtil().getClass().getResourceAsStream("/" + fileName);
+			BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+			String lineRead = reader.readLine();
 
-				while (lineRead != null) {
+			while (lineRead != null) {
 
-					CaseData caseDetails = om.readValue(lineRead, CaseData.class);
+				CaseData caseDetails = om.readValue(lineRead, CaseData.class);
 
-					map.put(caseDetails.getCaseNum(), caseDetails);
-					lineRead = reader.readLine();
-				}
-				reader.close();
-
-			} catch (Exception e) {
-				e.printStackTrace();
+				map.put(caseDetails.getCaseNum(), caseDetails);
+				lineRead = reader.readLine();
 			}
+			reader.close();
+
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
+
 		return map;
 	}
 
