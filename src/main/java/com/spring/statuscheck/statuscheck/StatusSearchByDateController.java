@@ -22,7 +22,8 @@ import com.spring.statuscheck.util.StatusCheckUtil;
 @RestController
 public class StatusSearchByDateController {
 
-	String[] approvedList = { "Case Was Approved", "New Card Is Being Produced" };
+	String[] approvedList = { "Case Was Approved", "New Card Is Being Produced",
+			"Case Was Transferred And A New Office Has Jurisdiction" };
 
 	@GetMapping("/statusByDate/{caseCode}/{date}")
 	public List<CaseData> getCaseStatusByDate(@PathVariable String date, @PathVariable String caseCode)

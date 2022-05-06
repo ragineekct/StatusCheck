@@ -28,11 +28,11 @@ public class GenerateCaseController {
 	@GetMapping("/generate/{caseType}")
 	public void generateCases(@PathVariable String caseType) throws Exception {
 		FileWriter writer = initializeWriter(caseType);
-		int MAX_RECORDS = 1800;
+		int MAX_RECORDS = 1000;
 		int currentRecord = 0;
 
 		// Starting Case
-		int caseNumberNumeric = 6999;
+		int caseNumberNumeric = 18610;
 		String caseCode = "EAC22900";
 		StringBuilder caseNum = null;
 
@@ -49,7 +49,7 @@ public class GenerateCaseController {
 				currentRecord++;
 				System.err.println("newCaseNumber: " + newCaseNumber + ",MAX_RECORDS:" + MAX_RECORDS + ",CurrentCount:"
 						+ currentRecord);
-				addCase(writer, result, newCaseNumber);				
+				addCase(writer, result, newCaseNumber);
 			}
 		}
 		if (writer != null) {

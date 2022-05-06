@@ -36,6 +36,10 @@ public class DailyUpdateController {
 		if (map.size() > 0) {
 			Set<String> keys = map.keySet();
 			for (String key : keys) {
+				if (map.get(key).getLastUpdateDate() != null
+						&& map.get(key).getLastUpdateDate().compareTo(new Date()) == 0) {
+					System.out.println("Already updated");
+				}
 				String url = "https://egov.uscis.gov/casestatus/mycasestatus.do?appReceiptNum=" + key;
 				String result = new RestTemplate().getForObject(url, String.class);
 				CaseData response = checkCaseStatus(result, key, map.get(key), caseType);
@@ -90,7 +94,7 @@ public class DailyUpdateController {
 		}
 		caseUpdatesNew.add(caseUpdate);
 		caseDetail.setCaseUpdates(caseUpdatesNew);
-
+		caseDetail.setLastUpdateDate(new Date());
 		return caseDetail;
 
 	}
