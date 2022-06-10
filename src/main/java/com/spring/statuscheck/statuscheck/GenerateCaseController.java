@@ -26,31 +26,21 @@ import com.spring.statuscheck.dataobjects.CaseUpdate;
 public class GenerateCaseController {
 
 	@GetMapping("/generate/{caseType}")
-	public void generateCases(@PathVariable String caseType) throws Exception {
+	public void generateCases(@PathVariable String caseType, @PathVariable String caseNumToCheck,
+			@PathVariable Integer totalRecord) throws Exception {
 		FileWriter writer = initializeWriter(caseType);
-		int MAX_RECORDS = 1000;
-		int currentRecord = 0;
+		int start = getNumberStartIndex(caseNumToCheck);
 
-		// Starting Case
-		int caseNumberNumeric = 18610;
-		String caseCode = "EAC22900";
-		StringBuilder caseNum = null;
+		while (totalRecord > 0) {
 
-		while (MAX_RECORDS > 0) {
-
-			caseNum = new StringBuilder().append(caseCode);
-			String caseNumToCheck = getNewCaseNumber(caseNumberNumeric);
-			caseNumberNumeric++;
-			String newCaseNumber = caseNum.append(caseNumToCheck).toString();
-			String url = "https://egov.uscis.gov/casestatus/mycasestatus.do?appReceiptNum=" + newCaseNumber;
+			String url = "https://egov.uscis.gov/casestatus/mycasestatus.do?appReceiptNum=" + caseNumToCheck;
 			String result = new RestTemplate().getForObject(url, String.class);
 			if (result.contains(caseType)) {
-				MAX_RECORDS--;
-				currentRecord++;
-				System.err.println("newCaseNumber: " + newCaseNumber + ",MAX_RECORDS:" + MAX_RECORDS + ",CurrentCount:"
-						+ currentRecord);
-				addCase(writer, result, newCaseNumber);
+				totalRecord--;
+				addCase(writer, result, caseNumToCheck);
 			}
+			caseNumToCheck = getNewCaseNumber(caseNumToCheck, start);
+
 		}
 		if (writer != null) {
 			writer.flush();
@@ -58,11 +48,26 @@ public class GenerateCaseController {
 		}
 	}
 
-	private String getNewCaseNumber(int caseNumberNumeric) {
-		String output = caseNumberNumeric + "";
-		if (output.length() < 5)
-			output = "0" + output;
-		return output;
+	private String getNewCaseNumber(String startingRecord, int start) {
+
+		String strEnd = startingRecord.substring(start);
+		String strStart = startingRecord.substring(0, start);
+
+		Integer value = Integer.parseInt(strEnd);
+		value++;
+
+		String newEnd = String.format("%05d", value+"");
+		return new StringBuilder().append(strStart).append(newEnd).toString();
+
+	}
+
+	private int getNumberStartIndex(String startingRecord) {
+		for (int i = 0; i < startingRecord.length(); i++) {
+			if (Character.isDigit(startingRecord.charAt(i))) {
+				return i;
+			}
+		}
+		return 0;
 	}
 
 	public void addCase(FileWriter writer, String result, String caseNumber) {

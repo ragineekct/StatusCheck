@@ -1,7 +1,12 @@
 package com.spring.statuscheck.statuscheck;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -31,8 +36,10 @@ public class DailyUpdateController {
 	@PutMapping("/dailyUpdate/{caseCode}/{caseType}")
 	public ResponseEntity<Object> getStatus(@PathVariable String caseCode, @PathVariable String caseType)
 			throws Exception {
-		FileWriter writer = new FileWriter(new File(StatusCheckUtil.getFileName(caseCode) + "-update.txt"));
-		Map<String, CaseData> map = StatusCheckUtil.jsonfileToMap(caseCode);
+		String newFileName = StatusCheckUtil.getFileName(caseCode) + "-update.txt";
+		FileWriter writer = new FileWriter(new File(newFileName));
+		String fileName = StatusCheckUtil.getFileName(caseCode) + ".txt";
+		Map<String, CaseData> map = StatusCheckUtil.jsonfileToMap(fileName);
 		if (map.size() > 0) {
 			Set<String> keys = map.keySet();
 			for (String key : keys) {
@@ -50,8 +57,18 @@ public class DailyUpdateController {
 		}
 		if (writer != null)
 			writer.close();
-
+		updateFile(newFileName, fileName);
 		return ResponseEntity.accepted().build();
+	}
+
+	private void updateFile(String newFileName, String fileName) {
+		try {
+			Files.copy(Paths.get(newFileName), new FileOutputStream(fileName));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
 	}
 
 	public CaseData checkCaseStatus(String result, String caseNumber, CaseData existingCase, String caseType) {

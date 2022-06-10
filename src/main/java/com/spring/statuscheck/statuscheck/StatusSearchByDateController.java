@@ -31,7 +31,8 @@ public class StatusSearchByDateController {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		Date date1 = sdf.parse(date);
 		List<CaseData> casedataByDate = new ArrayList<CaseData>();
-		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(caseCode);
+		String newFileName = StatusCheckUtil.getFileName(caseCode)+ ".txt";
+		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(newFileName);
 
 		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
 
@@ -57,7 +58,8 @@ public class StatusSearchByDateController {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		Date date1 = sdf.parse(date);
 		List<CaseData> casedataByDate = new ArrayList<CaseData>();
-		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(caseCode);
+		String newFileName = StatusCheckUtil.getFileName(caseCode)+ ".txt";
+		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(newFileName);
 
 		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
 
@@ -79,16 +81,45 @@ public class StatusSearchByDateController {
 		return casedataByDate;
 	}
 
+	@GetMapping("/statusChange/{caseCode}")
+	public List<CaseData> statusChange(@PathVariable String caseCode) throws ParseException {
+
+		Date date1 = new Date();
+		List<CaseData> casedataByDate = new ArrayList<CaseData>();
+		String newFileName = StatusCheckUtil.getFileName(caseCode)+ ".txt";
+		Map<String, CaseData> masterFile = StatusCheckUtil.jsonfileToMap(newFileName);
+
+		Iterator<Map.Entry<String, CaseData>> iterator = masterFile.entrySet().iterator();
+
+		while (iterator.hasNext()) {
+			Map.Entry<String, CaseData> entry = iterator.next();
+			List<CaseUpdate> list = entry.getValue().getCaseUpdates();
+
+			for (CaseUpdate c : list) {
+				if (c.getDate() != null) {
+					if (date1.compareTo(c.getDate()) == 0 && checkStatus("approved", c)) {
+						casedataByDate.add(entry.getValue());
+						break;
+					}
+				}
+			}
+		}
+		filterData(date1, casedataByDate);
+		Collections.sort((casedataByDate));
+		return casedataByDate;
+	}
+
 	private void filterData(Date date1, List<CaseData> casedataByDate) {
-		List<CaseUpdate> removeList = new ArrayList<CaseUpdate>();
+		List<CaseData> removeList = new ArrayList<CaseData>();
 		for (CaseData d : casedataByDate) {
 			for (CaseUpdate up : d.getCaseUpdates()) {
 				if (!up.getCaseStatus().contains("Case Was Received") && up.getDate() != null
-						&& up.getDate().compareTo(date1) != 0)
-					removeList.add(up);
+						&& up.getDate().compareTo(date1) < 0)
+					removeList.add(d);
 			}
-			d.getCaseUpdates().removeAll(removeList);
+
 		}
+		casedataByDate.removeAll(removeList);
 	}
 
 	private boolean checkStatus(String status, CaseUpdate c) {
